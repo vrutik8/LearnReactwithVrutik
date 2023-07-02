@@ -14,5 +14,30 @@ ul {
 
 .nav-items> ul>li{
     padding: 12px;
-    font-size: 30px;
+    font-size: 25px;
 }
+
+.res-card{
+   margin: 5px;
+    padding: 5px;
+    /* height: 400px; */
+    width: 200px;
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 2px solid red;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search{
+    padding: 10px;
+}
+
+.res-logo{
+    
+    width: 100%;
+}
+/* qltgnkyywuo5gmnpqzbm */
