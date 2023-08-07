@@ -53,6 +53,14 @@ ul {
     margin: 20px;
     width: 200px;
     height: 400px;
-    background-color: gray;
+    background-color: rgb(75, 70, 70);
+}
+.login{
+    padding: 22px;
+}
+
+.filter{
+    display: flex;
+    justify-content: center;
 }
 /* qltgnkyywuo5gmnpqzbm */
