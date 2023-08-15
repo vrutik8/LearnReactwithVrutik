@@ -6,7 +6,7 @@
 .logo{
     height: 8em;
 }
-ul {
+.nav-items ul {
     list-style: none;
     display: flex;
     padding: 22px 0px;
